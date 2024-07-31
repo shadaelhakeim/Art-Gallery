@@ -112,7 +112,7 @@ svg:hover{
 }
 .exhib-collection {
     display: flex;
-    padding: 20px;
+/*     padding: 20px; */
     margin-top: 90px;
 }
 .main-exhibition .exhib-collection .exhib1 img{
